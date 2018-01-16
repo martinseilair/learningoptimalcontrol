@@ -5,7 +5,7 @@ This list is everything but complete ...
 ## Lectures
 
 ### Underactuated Robotics MIT 6.832
-This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html) is an excellent lecture covering very important concepts of optimal control.
+This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html) is an excellent resource covering very important concepts of optimal control.
 
 #### Video
 - [2015](https://www.youtube.com/playlist?list=PLnWkMhyDLp1CGlkfJqFBLmTs5Nf2RWWGe)
@@ -19,7 +19,7 @@ This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russ
 
 ### Intelligent control through learning and optimization
 
-Besides the lecture slides [Emo Todorov](http://homes.cs.washington.edu/~todorov/) is also providing a list of relevant papers and readings for general purpose.
+Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todorov/) is also providing a list of relevant papers and general purpose readings.
 
 #### Material 
 [https://homes.cs.washington.edu/~todorov/courses/amath579/](https://homes.cs.washington.edu/~todorov/courses/amath579/)
