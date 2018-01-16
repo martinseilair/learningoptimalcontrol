@@ -1,8 +1,8 @@
 # Learning Optimal Control
-
+Resources for learning control, optimal control, robotics, reinforcement learning
 This list is everything but complete ...
 
-## Lectures
+## Lectures/Online courses
 
 ### Underactuated Robotics MIT 6.832
 This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russt.html) is an excellent resource covering very important concepts of optimal control.
@@ -23,3 +23,10 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 
 #### Material 
 [https://homes.cs.washington.edu/~todorov/courses/amath579/](https://homes.cs.washington.edu/~todorov/courses/amath579/)
+
+## Blogs
+ - [Studywolf](https://studywolf.wordpress.com/)
+ 
+## Tutorials
+
+## Videos
