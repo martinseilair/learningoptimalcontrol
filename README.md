@@ -17,7 +17,7 @@ This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russ
 
 ---
 
-### Intelligent control through learning and optimization
+### Intelligent control through learning and optimization AMATH / CSE 579
 
 Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todorov/) is also providing a list of relevant papers and general purpose readings.
 
