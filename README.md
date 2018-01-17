@@ -26,6 +26,7 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 
 ## Blogs
  - [Studywolf](https://studywolf.wordpress.com/)
+ - [WildML](http://www.wildml.com/)
  
 ## Tutorials
 
