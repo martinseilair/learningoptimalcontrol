@@ -32,3 +32,10 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 ## Tutorials
 
 ## Videos
+
+## Books 
+
+ - [Dynamic Programming and Optimal Control Vol. 1 + 2](http://web.mit.edu/dimitrib/www/dpchapter.html)
+ - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)
+ - [Neuro-Dynamic Programming](http://web.mit.edu/jnt/www/ndp.html)
+ 
