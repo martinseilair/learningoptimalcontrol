@@ -1,5 +1,6 @@
 # Learning Optimal Control
 Resources for learning control, optimal control, robotics, reinforcement learning
+
 This list is everything but complete ...
 
 ## Lectures/Online courses
