@@ -28,6 +28,8 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 ## Blogs
  - [Studywolf](https://studywolf.wordpress.com/)
  - [WildML](http://www.wildml.com/)
+ - [argmin blog](http://http://www.argmin.net) (especially [An Outsider's Tour of Reinforcement Learning](http://www.argmin.net/2018/06/25/outsider-rl/))
+ 
  
 ## Tutorials
 
