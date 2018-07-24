@@ -37,6 +37,13 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 #### Material 
 [https://homes.cs.washington.edu/~todorov/courses/amath579/](https://homes.cs.washington.edu/~todorov/courses/amath579/)
 
+---
+
+### Reinforcement Learning by Georgia Tech
+
+#### Online course
+[Udacity Reinforcement Learning by Georgia Tech](https://www.udacity.com/course/reinforcement-learning--ud600)
+
 
 ## Blogs
  - [Studywolf](https://studywolf.wordpress.com/)
@@ -48,10 +55,14 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 
 ## Videos
 
+[Deep Reinforcement Learning (David Silver, 2015)](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
+
 ## Books 
 
  - [Dynamic Programming and Optimal Control Vol. 1 + 2](http://web.mit.edu/dimitrib/www/dpchapter.html)
  - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)
  - [Neuro-Dynamic Programming](http://web.mit.edu/jnt/www/ndp.html)
  - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
+ - [Springer Handbook of Robotics](https://www.springer.com/de/book/9783540303015)
+ - [Robotics - Modelling, Planning, Control](https://www.springer.com/de/book/9781846286414)
  
