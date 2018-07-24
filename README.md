@@ -18,12 +18,25 @@ This lecture held by [Russ Tedrake](https://groups.csail.mit.edu/locomotion/russ
 
 ---
 
+### UCL Course on RL
+
+A great introduction to Reinforcement Learning given by David Silver, one of the brains behind DeepMind.
+
+#### Material 
+[Lecture slides, exam with answers](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+#### Video
+- [Lecture 1-10](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+---
+
 ### Intelligent control through learning and optimization AMATH / CSE 579
 
 Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todorov/) is also providing a list of relevant papers and general purpose readings.
 
 #### Material 
 [https://homes.cs.washington.edu/~todorov/courses/amath579/](https://homes.cs.washington.edu/~todorov/courses/amath579/)
+
 
 ## Blogs
  - [Studywolf](https://studywolf.wordpress.com/)
@@ -40,4 +53,5 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
  - [Dynamic Programming and Optimal Control Vol. 1 + 2](http://web.mit.edu/dimitrib/www/dpchapter.html)
  - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)
  - [Neuro-Dynamic Programming](http://web.mit.edu/jnt/www/ndp.html)
+ - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
  
