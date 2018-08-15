@@ -56,6 +56,7 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 ## Videos
 
 [Deep Reinforcement Learning (David Silver, 2015)](http://videolectures.net/rldm2015_silver_reinforcement_learning/)
+
 [ICML 2018: Tutorial Session: Optimization Perspectives on Learning to Control (Ben Recht)](https://www.youtube.com/watch?v=hYw_qhLUE0o)
 
 ## Books 
