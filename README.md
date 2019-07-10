@@ -83,7 +83,7 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 ## Books 
 
  - [Dynamic Programming and Optimal Control Vol. 1 + 2](http://web.mit.edu/dimitrib/www/dpchapter.html)
- - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)([PDF](http://incompleteideas.net/book/bookdraft2017nov5.pdf))
+ - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning) ([PDF](http://incompleteideas.net/book/bookdraft2017nov5.pdf))
  - [Neuro-Dynamic Programming](http://web.mit.edu/jnt/www/ndp.html)
  - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
  - [Springer Handbook of Robotics](https://www.springer.com/de/book/9783540303015)
