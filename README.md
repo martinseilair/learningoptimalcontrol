@@ -44,7 +44,7 @@ A great introduction to Reinforcement Learning given by David Silver, one of the
 ### Deep RL Bootcamp
 
 #### Material & Video
-[Lecture slides, homeworks](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[Slides, videos](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ---
 
