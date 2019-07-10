@@ -30,6 +30,24 @@ A great introduction to Reinforcement Learning given by David Silver, one of the
 
 ---
 
+### Deep Reinforcement Learning CS294-112
+
+#### Material
+[Lecture slides, homeworks](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+
+
+#### Video
+[Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+
+---
+
+### Deep RL Bootcamp
+
+#### Material & Video
+[Lecture slides, homeworks](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+---
+
 ### Intelligent control through learning and optimization AMATH / CSE 579
 
 Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todorov/) is also providing a list of relevant papers and general purpose readings.
@@ -49,8 +67,11 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
  - [Studywolf](https://studywolf.wordpress.com/)
  - [WildML](http://www.wildml.com/)
  - [argmin blog](http://www.argmin.net) (especially [An Outsider's Tour of Reinforcement Learning](http://www.argmin.net/2018/06/25/outsider-rl/))
- 
- 
+
+## Articles 
+
+ - [Reinforcement Learning Algorithms Quick Overview](https://medium.com/@jonathan_hui/rl-reinforcement-learning-algorithms-quick-overview-6bf69736694d)
+
 ## Tutorials
 
 ## Videos
@@ -62,7 +83,7 @@ Besides the lecture slides, [Emo Todorov](http://homes.cs.washington.edu/~todoro
 ## Books 
 
  - [Dynamic Programming and Optimal Control Vol. 1 + 2](http://web.mit.edu/dimitrib/www/dpchapter.html)
- - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)
+ - [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/books/reinforcement-learning)([PDF](http://incompleteideas.net/book/bookdraft2017nov5.pdf))
  - [Neuro-Dynamic Programming](http://web.mit.edu/jnt/www/ndp.html)
  - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
  - [Springer Handbook of Robotics](https://www.springer.com/de/book/9783540303015)
